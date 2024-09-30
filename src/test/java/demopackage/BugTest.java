@@ -1,4 +1,4 @@
-package org.jira.test;
+package demopackage;
 
 import static io.restassured.RestAssured.given;
 
